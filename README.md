@@ -1,3 +1,5 @@
+![free-tata-2709163-2249154](https://user-images.githubusercontent.com/128209132/236779540-0349dfa4-4b67-4c75-9de8-bf96b2a921fc.png)
+![Forage_Logo_Icon_Vert_Green_RGB](https://user-images.githubusercontent.com/128209132/236779487-d349d849-e7ae-4a33-8c32-6969041fa8b1.png)
 # TATA_Visualization
 Forage Tata Data Visualization: Empowering Business with Effective Insights virtual experience program.
 
